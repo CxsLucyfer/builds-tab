@@ -16,7 +16,7 @@
     "moment": "^2.19.0",
     "normalize-package-data": "^2.4.0",
     "riot": "^3.7.3",
-    "riot-cli": "^3.0.3",
+    "riot-cli": "^3.0.4",
     "riot-tag-loader": "^1.0.0"
   },
   "devDependencies": {
